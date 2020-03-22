@@ -1,0 +1,22 @@
+{
+  "name": "l33tgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4dnkcc/thebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4dnkcc/thebot/issues"
+  },
+  "homepage": "https://github.com/4dnkcc/thebot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
